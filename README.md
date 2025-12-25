@@ -1,5 +1,54 @@
 # FinalProjectDashBoard
 
+
+🔹 Key Features
+
+User friendly Dashboard UI
+
+Role-based menu access (Admin, CRM, OE)
+
+EMI Calculator
+
+Enquiry Management
+
+User Sign-In
+
+Visitor & User Headers
+
+Modular Angular structure (components, services, routing)
+
+🔹 Technologies Used
+
+Angular
+
+TypeScript
+
+HTML5, CSS3
+
+Bootstrap
+
+Reactive Forms
+
+🔹 User Roles
+
+ADMIN – Manage employees & view statistics
+
+CRM – Handle enquiries & loan applications
+
+OE – Verify loan forms and requests
+
+🔹 Project Purpose
+
+This project was built to gain hands-on experience in:
+
+Angular component-based architecture
+
+Routing & modules
+
+Role-based UI rendering
+
+Form handling using Reactive Forms
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.6.
 
 ## Development server
